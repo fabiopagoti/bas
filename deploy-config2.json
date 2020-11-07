@@ -1,0 +1,15 @@
+{
+  "deploy": {
+    "sourceFolder": "./dist",
+    "client": "100",
+    "authenticationType": "BasicAuthentication",
+    "username": "FABIO",
+    "password": "Ovly2020#",
+    "appName": "ZBAS1",
+    "description": "teste",
+    "abapPackage": "$TMP"
+  },
+  "cli": {
+    "interactiveFallBack": true
+  }
+}

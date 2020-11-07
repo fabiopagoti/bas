@@ -1,0 +1,14 @@
+{
+  "deploy": {
+    "sourceFolder": "./dist",
+    "targetSystem": "http://s4.ovly.com.br:80",
+    "client": "100",
+    "username": "FABIO",
+    "password": "Ovly2020#",
+    "appName": "ZBAS1",
+    "description": "teste"
+  },
+  "cli": {
+    "interactiveFallBack": true
+  }
+}
